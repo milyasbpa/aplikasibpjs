@@ -1,0 +1,39 @@
+{
+    "Sheet1": [
+        {
+            "Respondent ID": "11791525682",
+            "Collector ID": "262855262",
+            "Start Date": "7/15/20 4:45",
+            "End Date": "7/15/20 4:50",
+            "IP Address": "36.74.193.67",
+            "Usia (Tahun)": "35-44",
+            "Jenis kelamin": "Perempuan",
+            "Provinsi": "Jawa Timur",
+            "Kota/Kabupaten (isi dengan lengkap diawali dengan \"kota\" atau \"kabupaten\". contoh: Kota Bandung": "Kota malang",
+            "Bagaimana tingkat kepuasan Anda terhadapÂ layanan yang tersedia di aplikasi?": "Puas",
+            "Sebutkan jika ada fitur yang tidak memuaskan (tulis sudah puas jika memang sudah memuaskan)": "Puas",
+            "Apakah Anda menggunakan semua layanan yang terdapat pada aplikasi?": "Tidak (mohon sebutkan layanan yang tidak dipakai, misalnya layanan untukÂ pembatalan booking dokter)",
+            "Apakah terdapat fitur yang jarang atau tidak pernah digunakan?": "Ada (mohon sebutkan fiturnya, misal fitur upload foto)",
+            "Apakah Anda pernah melakukan komplain mengenai layanan/fitur aplikasi?": "Pernah (mohon jelaskan komplain Anda)",
+            "Sejauh mana tingkat kepercayaanÂ Anda terhadap aplikasi?": "Percaya",
+            "Sejauh mana tingkat kesenanganÂ AndaÂ dalam menggunakan aplikasi?": "Senang",
+            "Sejauh mana tingkat kenyamanan Anda dalam mengoperasikan aplikasi?": "Nyaman",
+            "Apakah fitur pada aplikasi dapat digunakan dengan mudah? (misal: form input berada di satu halaman sehingga tidak perlu bolak balik)": "Mudah",
+            "Apakah aplikasi dapat digunakan dengan baik untuk menyelesaikan kebutuhan Anda? (contoh: saya berhasil mendapatkan nomor antrean online melalui aplikasi)": "Sudah",
+            "Seberapa sering Anda melakukan kesalahan dalam mengoperasikan aplikasi?": "Jarang",
+            "Kesalahan apakah yang sering dilakukan? (Tulis tidak ada jika memang tidak pernah melakukan kesalahan)": "Tidak ada",
+            "Jaringan apa yang Anda gunakan untuk mengakses Aplikasi?": "Lainnya (mohon sebutkan jenis koneksi Anda)",
+            "Perangkat apa yang Anda gunakan untuk mengakses Aplikasi?": "PC/Laptop: Windows",
+            "Berikan penilaian Anda mengenai tampilan aplikasi": "5",
+            "Berikan penilaian Anda mengenai kecepatan aplikasi": "5",
+            "Berikan penilaian Anda mengenai kelengkapan fitur aplikasi": "5",
+            "Berikan penilaian Anda mengenai kemudahan pengoperasian aplikasi": "5",
+            "Column10": "PUAS",
+            "Column11": "TIDAK ADA",
+            "Column12": "PUAS",
+            "Column13": "TIDAK ADA",
+            "Standar Kepuasan": "(null)",
+            "Standardisasi Kesalahan": "(null)"
+        }
+    ]
+}
